@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.1742155258036" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="443.1742155258036" y="0" width="6.512309623656418" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.68652514946" y="0" width="4.4040169631751125" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="454.09054211263515" y="0" width="4.219892528616806" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="458.31043464125196" y="0" width="0.6454624959624822" height="8" fill="#6866fb"/>
-                    <rect mask="url(#languages-bar)" x="458.95589713721444" y="0" width="0.6184478313345286" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.5743449685489" y="0" width="0.24915458085343214" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="459.82349954940236" y="0" width="0.1765004505975829" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.03537263087657" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="443.03537263087657" y="0" width="6.510269369758214" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.54564200063476" y="0" width="4.40263722030413" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="453.94827922093884" y="0" width="4.218570470440973" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="458.1668496913798" y="0" width="0.6452602777864992" height="8" fill="#6866fb"/>
+                    <rect mask="url(#languages-bar)" x="458.81210996916633" y="0" width="0.6182540766343325" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.4303640458007" y="0" width="0.3205594314595461" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.7509234772602" y="0" width="0.24907652273976455" height="8" fill="#aace60"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>12.7 MB</div>
-                                <div>96.34%</div>
+                                <div>96.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -252,13 +252,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#aace60" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HLSL
+                                Python
                             </div>
                             <small>
-                                <div>7.16 kB</div>
-                                <div>0.05%</div>
+                                <div>9.21 kB</div>
+                                <div>0.07%</div>
                             </small>
                         </div>
                     </section>
@@ -302,13 +302,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#aace60" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                HLSL
                             </div>
                             <small>
-                                <div>5.07 kB</div>
-                                <div>0.04%</div>
+                                <div>7.16 kB</div>
+                                <div>0.05%</div>
                             </small>
                         </div>
                     </section>
